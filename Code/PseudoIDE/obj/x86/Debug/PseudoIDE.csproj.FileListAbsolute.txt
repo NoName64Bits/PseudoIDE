@@ -1,0 +1,18 @@
+C:\Users\NoName\AppData\Local\Temporary Projects\PseudoIDE\bin\Debug\PseudoIDE.exe
+C:\Users\NoName\AppData\Local\Temporary Projects\PseudoIDE\bin\Debug\PseudoIDE.pdb
+C:\Users\NoName\AppData\Local\Temporary Projects\PseudoIDE\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\NoName\AppData\Local\Temporary Projects\PseudoIDE\obj\x86\Debug\PseudoIDE.Form1.resources
+C:\Users\NoName\AppData\Local\Temporary Projects\PseudoIDE\obj\x86\Debug\PseudoIDE.Properties.Resources.resources
+C:\Users\NoName\AppData\Local\Temporary Projects\PseudoIDE\obj\x86\Debug\PseudoIDE.csproj.GenerateResource.Cache
+C:\Users\NoName\AppData\Local\Temporary Projects\PseudoIDE\obj\x86\Debug\PseudoIDE.exe
+C:\Users\NoName\AppData\Local\Temporary Projects\PseudoIDE\obj\x86\Debug\PseudoIDE.pdb
+D:\PseudoIDE\PseudoIDE\PseudoIDE\obj\x86\Debug\PseudoIDE.exe
+D:\PseudoIDE\PseudoIDE\PseudoIDE\obj\x86\Debug\PseudoIDE.pdb
+D:\PseudoIDE\PseudoIDE\PseudoIDE\bin\Debug\PseudoIDE.exe
+D:\PseudoIDE\PseudoIDE\PseudoIDE\bin\Debug\PseudoIDE.pdb
+D:\PseudoIDE\PseudoIDE\PseudoIDE\obj\x86\Debug\PseudoIDE.csprojResolveAssemblyReference.cache
+D:\PseudoIDE\PseudoIDE\PseudoIDE\obj\x86\Debug\PseudoIDE.Form1.resources
+D:\PseudoIDE\PseudoIDE\PseudoIDE\obj\x86\Debug\PseudoIDE.Properties.Resources.resources
+D:\PseudoIDE\PseudoIDE\PseudoIDE\obj\x86\Debug\PseudoIDE.csproj.GenerateResource.Cache
+D:\PseudoIDE\PseudoIDE\PseudoIDE\obj\x86\Debug\PseudoIDE.Form2.resources
+D:\PseudoIDE\PseudoIDE\PseudoIDE\obj\x86\Debug\PseudoIDE.Form3.resources
